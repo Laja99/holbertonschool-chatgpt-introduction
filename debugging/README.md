@@ -7,7 +7,6 @@ This directory focuses on debugging common programming errors using ChatGPT as a
 The tasks in this directory involve examining faulty code, correcting logical and runtime errors, and improving overall code reliability.
 
 ---
-
 ## Objectives
 
 - Practice identifying and fixing bugs in code.
