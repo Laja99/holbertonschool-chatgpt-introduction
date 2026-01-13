@@ -1,2 +1,1 @@
 # holbertonschool-chatgpt-introduction
-.
