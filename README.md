@@ -1,52 +1,49 @@
-# Enhancing Code Quality and Efficiency with ChatGPT
+# Debugging
 
-## Project Overview
+## Overview
 
-This project is part of an IT curriculum module focused on improving software development practices through the use of artificial intelligence. The main goal is to explore how ChatGPT can assist developers in debugging code and automating repetitive programming tasks.
+This directory focuses on debugging common programming errors using ChatGPT as a support tool. The objective is to understand how artificial intelligence can assist in identifying bugs, analyzing their causes, and proposing effective fixes across different code samples.
 
-By working through this project, students will gain practical experience using AI as a support tool to improve code quality, efficiency, and reliability across different programming languages.
+The tasks in this directory involve examining faulty code, correcting logical and runtime errors, and improving overall code reliability.
 
 ---
 
 ## Objectives
 
-### Debugging
-
-- Identify and analyze errors in existing code.
-- Use ChatGPT to help diagnose and fix bugs.
-- Improve understanding of common programming mistakes.
-- Strengthen problem-solving and debugging skills.
-
-### Automation
-
-- Automate repetitive coding tasks using ChatGPT.
-- Generate boilerplate code and documentation.
-- Create simple unit tests to improve code reliability.
-- Increase productivity by reducing manual work.
+- Practice identifying and fixing bugs in code.
+- Use ChatGPT to assist in debugging and error analysis.
+- Understand common programming mistakes and how to avoid them.
+- Improve code readability and correctness after debugging.
 
 ---
 
-## Learning Outcomes
+## Tasks Description
 
-- Develop confidence in debugging and refining code.
-- Learn how to clearly describe programming problems and evaluate AI-generated solutions.
-- Improve the structure, readability, and maintainability of code.
-- Gain experience using AI tools responsibly in software development.
+Each file in this directory contains code with one or more errors. The goal is to:
+
+- Analyze the issue causing the program to fail or behave incorrectly.
+- Apply appropriate fixes while maintaining clean and readable code.
+- Test the corrected code to ensure it behaves as expected.
 
 ---
 
-## Methodology
+## Tools and Technologies
 
-This project is based on hands-on practice using real-world coding examples. Students are expected to test, review, and validate all AI-generated responses before applying them. Critical thinking and manual verification are essential parts of the learning process.
+- Python 3
+- Bash
+- HTML / JavaScript
+- ChatGPT (for debugging assistance)
 
 ---
 
 ## Important Notes
 
-The use of ChatGPT is intended as a learning aid. All generated code and explanations should be reviewed carefully to ensure correctness and relevance. Students should not rely solely on AI responses without testing and verification.
+- All changes should be tested before submission.
+- ChatGPT suggestions must be reviewed and verified.
+- Understanding the fix is more important than applying it blindly.
 
 ---
 
-## Conclusion
+## Learning Outcome
 
-This project introduces a modern approach to software development by integrating AI tools into traditional coding workflows. It aims to prepare students for real-world development environments by improving efficiency, code quality, and technical understanding.
+By completing the tasks in this directory, students will gain practical experience in debugging and develop a structured approach to identifying and resolving software issues efficiently.
